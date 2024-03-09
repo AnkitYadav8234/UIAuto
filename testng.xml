@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/ADMIN/OneDrive/Desktop/TestingMiiBytes/SeleniumAutomationFramework_Youtube-main (1)/UIAUTO">
+        <classes>
+            <class name="pracs.UnitTest">
+                <methods>
+                    <include name="test1" />
+                    <include name="test2" />
+                    <include name="test3" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
